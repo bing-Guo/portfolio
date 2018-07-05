@@ -1,0 +1,61 @@
+html, body{
+	background-color: #eee;
+	font-family: Microsoft JhengHei;
+	color: #333;
+}
+
+a:link
+{
+    color: #4E7AC7;
+    text-decoration:none;
+}
+a:visited
+{
+    color: #4E7AC7;
+    text-decoration:none;
+}
+a:hover
+{
+    color: #4E7AC7;
+    text-decoration:none;
+}
+a:active
+{
+    color: #4E7AC7;
+    text-decoration:none;
+}
+
+header{
+	text-align: center;
+	margin: 30px 10px;
+}
+
+nav{
+	text-align: center;
+	margin: 20px 10px;
+}
+
+footer{
+	margin-top: 40px; 
+}
+
+br{
+	color: red;
+}
+
+.frame {
+	background-color: white;
+	border: 1px solid #ccc;
+	padding: 5px;
+	border-radius: 10px;
+	background-clip: padding-box;
+    border: 10px solid transparent;
+}
+
+.photo img{
+	width: 100%;
+}
+
+.title{
+	padding: 10px 5px;
+}
